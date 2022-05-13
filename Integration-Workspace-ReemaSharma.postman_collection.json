@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "0185ea72-5146-4e00-b014-f723b6eebd25",
+		"name": "Integration-Workspace-ReemaSharma",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Milestone1",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Milestone2",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Milestone3",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
